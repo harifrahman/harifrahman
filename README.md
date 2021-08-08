@@ -5,7 +5,36 @@
 i'll let it as default, coz to lazy :smiling_imp:
 
 
-<!-- Currently I'm working as a programmer in a tech company located in Medan, Sumatera Utara, Indonesia, mainly focus on back-end side of a system. I love to solve common software-related problem, learning new things, and trying new technologies. I also love playing online mobile games such as [Honkai Impact 3](https://honkaiimpact3.mihoyo.com/asia/en-us/home), [Princess Connect! Re: Dive](https://www.crunchyroll.com/games/princessconnectredive/index.html), and [BanG Dream!](https://en.bang-dream.com/). I'm a weeaboo, I like everything about Japanese culture, I like to watch anime, read manga, listen to Japanese music, playing Japanese game, and learn everything about Japanese culture.
+Currently I'm working as a programmer in a tech company located in Medan, Sumatera Utara, Indonesia, mainly focus on back-end side of a system. ;)
+
+
+
+================================ Regards Dev Abz ================================ 
+
+        \                           /
+         \                         /
+          \    Stay Hungry        /
+           ]   Stay Foolish ;)   [    ,'|
+           ]                     [   /  |
+           ]___               ___[ ,'   |
+           ]  ]\             /[  [ |:   |
+           ]  ] \           / [  [ |:   |
+           ]  ]  ]         [  [  [ |:   |
+           ]  ]  ]__     __[  [  [ |:   |
+           ]  ]  ] ]\ _ /[ [  [  [ |:   |
+           ]  ]  ] ] (#) [ [  [  [ :===='
+           ]  ]  ]_].nHn.[_[  [  [
+           ]  ]  ]  HHHHH. [  [  [
+           ]  ] /   `HH("N  \ [  [
+           ]__]/     HHH  "  \[__[
+           ]         NNN         [
+           ]         N/"         [
+           ]         N H         [
+          /          N            \
+         /           q,            \
+        /                           \
+
+<!-- I love to solve common software-related problem, learning new things, and trying new technologies. I also love playing online mobile games such as [Honkai Impact 3](https://honkaiimpact3.mihoyo.com/asia/en-us/home), [Princess Connect! Re: Dive](https://www.crunchyroll.com/games/princessconnectredive/index.html), and [BanG Dream!](https://en.bang-dream.com/). I'm a weeaboo, I like everything about Japanese culture, I like to watch anime, read manga, listen to Japanese music, playing Japanese game, and learn everything about Japanese culture.
 
 ### My Tools
 
@@ -47,7 +76,6 @@ i'll let it as default, coz to lazy :smiling_imp:
 
 ![Arif Rahman Hakim's WakaTime Coding Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/74a6581f-28f0-4795-9d01-f332e0fea503.svg)
 
-![Arif Rahman Hakim's WakaTime Programming Language Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/74a6581f-28f0-4795-9d01-f332e0fea503.svg)
+![Arif Rahman Hakim's WakaTime Programming Language Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/7a2fc921-d697-416d-bab3-e8cda9d462ab.svg)
 
 
-================================ Regards Dev Abz ================================ 
