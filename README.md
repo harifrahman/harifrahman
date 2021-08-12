@@ -68,9 +68,10 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 <!-- - [Website](https://misterabdul.github.io/) -->
 - [Github](https://github.com/harifrahman)
 - [LinkedIn](https://www.linkedin.com/in/arif-rahman-hakim/)
+- [Instagram](https://www.instagram.com/arifrahmn_h/)
 <!-- - [Facebook](https://www.facebook.com/abdulrahmadpasaribu) -->
 <!-- - [Twitter](https://twitter.com/abdulrpasaribu) -->
-- [Instagram](https://www.instagram.com/arifrahmn_h/)
+
 
 ### My Stats 🌱
 
