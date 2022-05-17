@@ -75,8 +75,8 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 
 ### My Stats 🌱
 
-![Arif Rahman Hakim's WakaTime Coding Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/74a6581f-28f0-4795-9d01-f332e0fea503.svg)
+![Arif Rahman Hakim's WakaTime Coding Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/9aded681-ced5-4f17-ae26-37035ce9271e.svg)
 
-![Arif Rahman Hakim's WakaTime Programming Language Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/7a2fc921-d697-416d-bab3-e8cda9d462ab.svg)
+![Arif Rahman Hakim's WakaTime Programming Language Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/b86be958-5e96-4852-9ffa-377d64d06f3c.svg)
 
 
