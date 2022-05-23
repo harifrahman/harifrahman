@@ -65,18 +65,16 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 
 ### My Links 📫
 
-<!-- - [Website](https://misterabdul.github.io/) -->
+<!-- - [Website](https://lalalayeyeye.github.io/) -->
 - [Github](https://github.com/harifrahman)
 - [LinkedIn](https://www.linkedin.com/in/arif-rahman-hakim/)
 - [Instagram](https://www.instagram.com/arifrahmn_h/)
-<!-- - [Facebook](https://www.facebook.com/abdulrahmadpasaribu) -->
-<!-- - [Twitter](https://twitter.com/abdulrpasaribu) -->
 
 
 ### My Stats 🌱
 
 ![Arif Rahman Hakim's WakaTime Coding Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/9aded681-ced5-4f17-ae26-37035ce9271e.svg)
 
-![Arif Rahman Hakim's WakaTime Programming Language Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/b86be958-5e96-4852-9ffa-377d64d06f3c.svg)
+![Arif Rahman Hakim's WakaTime Programming Language Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/7fd6b9ce-1d34-486e-8812-b0819da2d718.svg)
 
 
