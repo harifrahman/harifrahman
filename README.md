@@ -5,7 +5,12 @@
 i'll let it as default, coz to lazy :smiling_imp:
 
 
-Currently I'm working as a programmer in a tech company located in Medan, Sumatera Utara, Indonesia, mainly focus on back-end side of a system. ;)
+Currently I'm working as a programmer in a tech financial company located in Jakarta, Indonesia, mainly focus Product Engineer. ;)
+
+Anyway, now i work remotely from Aceh. Just a learner~
+
+- Be humble
+- Be kind
 
 
 
