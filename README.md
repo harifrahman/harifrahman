@@ -78,8 +78,8 @@ Anyway, now i work remotely from Aceh. Just a learner~
 
 ### My Stats 🌱
 
-![Arif Rahman Hakim's WakaTime Coding Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/9aded681-ced5-4f17-ae26-37035ce9271e.svg)
+![Arif Rahman Hakim's WakaTime Coding Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/fa5701d2-d79f-46f2-95d0-ed5409dadb1c.svg)
 
-![Arif Rahman Hakim's WakaTime Programming Language Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/6c738bf9-5940-4768-80fa-d50c8573f5a8.svg)
+![Arif Rahman Hakim's WakaTime Programming Language Stats](https://wakatime.com/share/@fff83dc0-05e9-417e-8929-1a016e238a8e/92f78279-f992-4447-9de3-d81ecff2c691.svg)
 
 
